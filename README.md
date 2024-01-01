@@ -1,7 +1,7 @@
 ## NAME : BALAJI V
 ## REGISTER NUMBER :212223050008
 
-## Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-
+## Study of basic digital ICs and verification of truth tables for different logic gates realization
 
 ### AIM:
 
