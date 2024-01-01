@@ -1,6 +1,6 @@
 ## Experiment 01-Study of Basic Digital ICs and Verification of Truth Tables for Different Logic Gates Realization
-## NAME : BALAJI V
-## REGISTER NUMBER :212223050008
+### NAME : BALAJI V
+### REGISTER NUMBER :212223050008
 
 ### AIM:
 
